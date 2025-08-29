@@ -23,7 +23,7 @@ A Python script that downloads AI-generated face images from thispersondoesnotex
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/face-catcher.git
+git clone https://github.com/murapadev/face-catcher.git
 cd face-catcher
 ```
 
@@ -274,9 +274,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report Bug](https://github.com/yourusername/face-catcher/issues)
-- 💡 [Request Feature](https://github.com/yourusername/face-catcher/issues)
-- 📖 [Documentation](https://github.com/yourusername/face-catcher/wiki)
+- 🐛 [Report Bug](https://github.com/murapadev/face-catcher/issues)
+- 💡 [Request Feature](https://github.com/murapadev/face-catcher/issues)
+- 📖 [Documentation](https://github.com/murapadev/face-catcher/wiki)
 
 ---
 
