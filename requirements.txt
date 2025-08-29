@@ -1,0 +1,18 @@
+# Core dependencies
+requests>=2.31.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# Face analysis libraries (choose one based on your Python version)
+# For Python 3.7-3.12: uncomment the deepface line below
+# deepface>=0.0.93
+
+# For Python 3.13+ or as alternative: use face-recognition
+face-recognition>=1.3.0
+
+# Additional face detection libraries
+dlib>=19.24.0

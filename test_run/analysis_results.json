@@ -1,0 +1,48 @@
+[
+  {
+    "filename": "face_000001.jpg",
+    "analysis": {
+      "age": 35,
+      "gender": "Woman",
+      "race": "latino hispanic",
+      "emotion": "neutral",
+      "race_scores": {
+        "asian": 27.504863739013672,
+        "indian": 7.667257785797119,
+        "black": 2.4467225074768066,
+        "white": 26.269245147705078,
+        "middle eastern": 6.66330099105835,
+        "latino hispanic": 29.448610305786133
+      },
+      "gender_scores": {
+        "Woman": 96.72926330566406,
+        "Man": 3.270737409591675
+      },
+      "emotion_scores": {
+        "angry": 8.971121133072302e-05,
+        "disgust": 5.538937641880182e-10,
+        "fear": 2.0261597633361816,
+        "happy": 0.06730017066001892,
+        "sad": 20.9786434173584,
+        "surprise": 0.00013785550254397094,
+        "neutral": 76.92766571044922
+      },
+      "face_region": {
+        "x": 122,
+        "y": 188,
+        "w": 762,
+        "h": 762,
+        "left_eye": [
+          466,
+          780
+        ],
+        "right_eye": [
+          377,
+          478
+        ]
+      },
+      "dominant_race": "latino_hispanic"
+    },
+    "timestamp": "2025-06-13T19:24:40.599205"
+  }
+]
