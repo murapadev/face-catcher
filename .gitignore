@@ -169,3 +169,7 @@ temp/
 
 # DeepFace models cache
 .deepface/
+
+tests_outputs/
+outputs/
+output/
